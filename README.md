@@ -1,4 +1,4 @@
-# xmpp.js
+#  xmpp.js
 
 XMPP for JavaScript.
 
